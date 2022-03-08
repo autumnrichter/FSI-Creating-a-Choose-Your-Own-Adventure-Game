@@ -3,6 +3,7 @@ if(firstAnswer === 'left'){
     let secondAnswer = window.prompt(`You come across a stray cat. 
 It scampers off down a small hole, just large enough for you to crawl through. 
 Do you follow it, or continue on your path?`)
+}
     if (secondAnswer === 'follow') {
         let thirdAnswer = window.prompt(`You follow the cat to a colony of cats, 
     nestled in a fort of warm blankets and subsisting off of inexplicably warm soup. 
